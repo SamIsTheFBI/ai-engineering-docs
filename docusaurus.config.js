@@ -7,10 +7,10 @@ const config = {
   tagline: 'Production-Grade Notes, Architecture Diagrams & Code Walkthroughs (CampusX & Krish Naik)',
   favicon: 'img/favicon.ico',
 
-  url: 'https://deshdeepakkant.github.io',
+  url: 'https://samisthefbi.github.io',
   baseUrl: '/ai-engineering-docs/',
   trailingSlash: false,
-  organizationName: 'DeshDeepakKant',
+  organizationName: 'samisthefbi',
   projectName: 'ai-engineering-docs',
   deploymentBranch: 'gh-pages',
 
